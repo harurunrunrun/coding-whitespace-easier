@@ -1,3 +1,10 @@
+/*
+auther harurun
+
+Reference
+https://magazine.rubyist.net/articles/0022/0022-Legwork.html#fn:2
+*/
+
 #include <iostream>
 #include <string>
 #include <vector>
