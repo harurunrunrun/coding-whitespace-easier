@@ -1,0 +1,1 @@
+# coding-whitespace-easier
